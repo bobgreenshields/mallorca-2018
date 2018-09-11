@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![Lighthouse of Cap de Formentor]({{base_url}}/assets/mallorca-lighthouse.jpg "Lighthouse of Cap de Formentor")
