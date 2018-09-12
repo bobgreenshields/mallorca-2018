@@ -13,4 +13,7 @@ layout: home
 Route | Name (click for map) | Dist. (mi) | Elev. gain (ft)
 :-:|:-:|:-:|:-:
 ![Arta]({{ "/assets/arta.jpg" | relative_url }} "Arta")| [Arta](https://www.google.com/maps/d/edit?mid=1407Efh9I55Y31xf08F-G7xMD43o&ll=39.799495984049976%2C3.1900049999999283&z=11) | 567 | 678
-
+![Garage long]({{ "/assets/garage-long.jpg" | relative_url }} "Garage long")| [Garage long](https://www.google.com/maps/d/edit?mid=17OE78dKPFkUTw-RUIfZZ4l1RbZg&ll=39.77801917865312%2C3.007204999999999&z=11) |  | 
+![Garage short]({{ "/assets/garage-short.jpg" | relative_url }} "Garage short")| [Garage short](https://www.google.com/maps/d/edit?mid=1Zwx_WYS6TzW9d-UUS-s-2ZbYdKw&ll=39.80471529041691%2C3.00282500000003&z=12) |  | 
+![Petra]({{ "/assets/petra.jpg" | relative_url }} "Petra")| [Petra](https://www.google.com/maps/d/edit?mid=1rx0rbhQsYLOF3UgG2HFWDtYcGWs&ll=39.744781450493775%2C3.1275550000000294&z=11) |  | 
+![Petra not quite Arta]({{ "/assets/petra-not-quite-arta.jpg" | relative_url }} "Petra not quite Arta")| [Petra not quite Arta](https://www.google.com/maps/d/edit?mid=1pPnL8CiUeIfMDV43gLi8ei_vetg&ll=39.7523785231301%2C3.13775499999997&z=11) |  | 
