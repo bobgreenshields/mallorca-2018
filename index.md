@@ -12,5 +12,5 @@ layout: home
 
 Route | Name (click for map) | Dist. (mi) | Elev. gain (ft)
 :-:|:-:|:-:|:-:
-![Arta]({{ /assets/arta.jpg | relative_url }} "xx")| Arta | 567 | 678
+![Arta]({{ "/assets/arta.jpg" | relative_url }} "xx")| Arta | 567 | 678
 
